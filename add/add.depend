@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1680011192 source:g:\coding\lcpp\add\add.cpp
+	<iostream>
+	"add.h"
+
+1680011246 g:\coding\lcpp\add\add.h
+
+1680156063 source:g:\coding\lcpp\add\main.cpp
+	<iostream>
+	"add.h"
+
